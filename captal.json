@@ -305,20 +305,6 @@
   "city": "Muzaffarpur",
   "lat": 26.1225,
   "lng": 85.3906
- },
- "Oul":{
-  "city": "Oulgaret",
-  "lat": 11.957,
-  "lng": 79.7737
- },
- "New":{
-  "city": "New Delhi",
-  "lat": 28.6139,
-  "lng": 77.2089
- },
-"Tir": {
-  "city": "Tiruvottiyūr",
-  "lat": 13.16,
-  "lng": 80.3
  }
+    
 }
